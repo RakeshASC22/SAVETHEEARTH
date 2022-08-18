@@ -6,7 +6,8 @@ header{
     text-align:center;
     font-size:xx-large;
     font-style:oblique;
-    background-color:blue;
+    background-color:rgb(71, 181, 224);
+    color: white;
 }
 #sm{
   margin-top:50px;
