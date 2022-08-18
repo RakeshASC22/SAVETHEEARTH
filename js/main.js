@@ -17,7 +17,9 @@ function signupMail() {
     }).then(
       message => {
         console.log('sent email');
-        alert('Check your emails ;)')}
+        alert('Check your emails ;)')
+      window.location.replace('https://rakeshasc22.github.io/saveTheEarth/index.html');
+      }
     );
     };
 
