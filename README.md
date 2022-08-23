@@ -6,3 +6,5 @@ Things we gottta work on
 - make carbon footprint calculator more user friendly
 - upgrade About page
 - potentially find a domain using google domains
+- Create social media
+- 
